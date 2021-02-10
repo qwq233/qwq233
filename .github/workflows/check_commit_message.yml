@@ -1,5 +1,8 @@
 name: 'Commit Message Check'
-on: [pull_request]
+on: 
+  pull_request:
+    branches:
+      - main
 jobs:
   check-commit-message:
     name: Check Commit Message
