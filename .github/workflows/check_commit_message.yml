@@ -2,7 +2,11 @@ name: 'Commit Message Check'
 on: 
   pull_request:
     branches:
+      - master 
+  push:
+    branches: 
       - master
+      
 jobs:
   check-commit-message:
     name: Check Commit Message
