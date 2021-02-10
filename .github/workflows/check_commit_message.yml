@@ -1,22 +1,21 @@
 name: 'Commit Message Check'
-on:
-  pull_request:
-    types:
-      - opened
-      - edited 
-      - reopened
-      - synchronize
-  push:
-    branches:
-      - 'master'
+on: [pull_request]
 jobs:
   check-commit-message:
     name: Check Commit Message
     runs-on: ubuntu-latest
     steps:
-      - name: Check Commit Type
-        uses: gsactions/commit-message-checker@v1
-        with:
-          pattern: '.*\[skip ci\].*'
-          flags: 'gm'
-          error: '禁止在commit message使用[skip ci]'
+        - name: should it be skipped?
+          env:
+            COMMIT_FILTER: "[skip ci]"
+          run: | 
+            readonly local last_commit_log=$(git log -1 --pretty=format:"%s")
+            echo "last commit log: $last_commit_log"
+            readonly local filter_count=$(echo "$last_commit_log" | grep -c "$COMMIT_FILTER" )
+            echo "number of occurence of '$COMMIT_FILTER' in '$last_commit_log': $filter_count"
+            if [[ "$filter_count" -eq 0 ]]; then
+                echo "good"
+                exit 0
+            else
+                echo "no [skip ci] in commit message"
+                exit 1
