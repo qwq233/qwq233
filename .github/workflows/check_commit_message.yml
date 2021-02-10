@@ -15,6 +15,6 @@ jobs:
       - name: Check Commit Type
         uses: gsactions/commit-message-checker@v1
         with:
-          pattern: '.*\[skip ci\].*'
+          pattern: '.*\[skip ci\].*' 
           flags: 'gm'
           error: '禁止在commit message使用[skip ci]'
