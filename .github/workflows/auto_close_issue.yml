@@ -1,0 +1,17 @@
+name: Check Issue
+
+on:
+  issues:
+    types: [edited]
+
+jobs:
+  check-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: check-issue
+        uses: actions-cool/issues-helper@v2.1.1
+        with:
+          actions: 'check-issue'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          issue-number: ${{ github.event.issue.number }}
+          title-includes: '功能需求/BUG/QQ/TIM'
