@@ -2,7 +2,7 @@ name: Check Issue
 
 on:adsf
   issues:
-    types: [edited]
+    types: [edited]asdf
 
 jobs:
   check-issue:
