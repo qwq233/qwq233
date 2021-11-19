@@ -1,3 +1,7 @@
+<div href="#">
+  <img align="right" src="https://metrics.lecoq.io/qwq233?template=terminal" />
+</div>
+
 ## Hi there 👋
 [![Telegram](https://img.shields.io/static/v1?label=Telegram&message=@gao_cai_sheng&color=0088cc)](https://t.me/gao_cai_sheng_bot)
 [![Mail](https://img.shields.io/badge/-qwq233@qwq2333.top-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:qwq233@qwq2333.top)](mailto:qwq233@qwq2333.top)
