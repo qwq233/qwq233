@@ -17,5 +17,3 @@ afdian: [click me](https://afdian.net/@gao_cai_sheng)
 Patreon: [click me](https://patreon.com/qwq233)
 
 [![](https://count.getloli.com/get/@qwq233?theme=rule12)](https://count.getloli.com/get/@qwq233?theme=rule12)
-
-[![](https://github-readme-stats.vercel.app/api?username=qwq233&icon_color=CE1D2D&show_icons=true&theme=light&text_color=718096&hide_title=true)](https://github-readme-stats.vercel.app/api?username=qwq233&icon_color=CE1D2D&show_icons=true&theme=dark&text_color=718096&hide_title=true)
