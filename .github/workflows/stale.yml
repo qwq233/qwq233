@@ -17,6 +17,7 @@ jobs:
           stale-issue-label: 'no-issue-activity'
           any-of-labels: 'bug'
           exempt-issue-labels: 'Confirmed'
+
       - uses: actions/stale@v4
         with:
           stale-issue-message: 'This issue is stale because it has been confirmed as a bug but still been opened 90 days with no activity. Remove stale label or comment or this will be closed in 30 days.'
@@ -24,4 +25,4 @@ jobs:
           days-before-stale: 90
           days-before-close: 30
           stale-issue-label: 'no-issue-activity'
-          only-issue-labels: 'bug','Confirmed'
+          only-issue-labels: 'bug,Confirmed'
