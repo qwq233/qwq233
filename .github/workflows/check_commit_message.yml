@@ -1,7 +1,7 @@
 name: 'Commit Message Check'
 on: 
   push: 
-
+ 
 jobs:
   check-commit-message:
     name: Check Commit Message
