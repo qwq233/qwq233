@@ -1,5 +1,5 @@
 <div href="#">
-  <img align="right" src="https://metrics.lecoq.io/qwq233?template=terminal" />
+  <img align="right" src="github-metrics.svg" />
 </div>
 
 ## Hi there 👋
