@@ -83,7 +83,7 @@ def sendAPKs(path):
 def sendMetadata(changesID, startID):
     parma = {
         "chat_id": -1001524514483,
-        "text": str(os.getenv("VERSION_NAME")) + "," + str(os.getenv("VERSION_CODE")) + "," + str(startID) + "," + str(changesID)
+        "text": str(os.getenv("VERSION_NAME")) + "," + str(os.getenv("VERSION_CODE")) + "," + str(startID) + "," + str(changesID) + ",false"
     }
     response = requests.get(urlPrefix + "/sendMessage", params=parma)
 
