@@ -23,10 +23,6 @@ def genFileDirectory(path):
                 target["arm64"] = (fileName, open(path + "/" + fileName, "rb"))
             if findString(fileName, "arm32"):
                 target["armeabi"] = (fileName, open(path + "/" + fileName, "rb"))
-            if findString(fileName, "x86.apk"):
-                target["i386"] = (fileName, open(path + "/" + fileName, "rb"))
-            if findString(fileName, "x86_64"):
-                target["amd64"] = (fileName, open(path + "/" + fileName, "rb"))
 
     return target
 
@@ -59,14 +55,6 @@ def sendAPKs(path):
         {
             "type": "document",
             "media": "attach://armeabi"
-        },
-        {
-            "type": "document",
-            "media": "attach://i386"
-        },
-        {
-            "type": "document",
-            "media": "attach://amd64"
         },
     ]
 
