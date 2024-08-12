@@ -12,7 +12,7 @@ Blog: [qwq2333.top](https://qwq2333.top)
 
 ### Support me
 
-afdian: [click me](https://afdian.net/@gao_cai_sheng)
+afdian: [click me](https://afdian.com/@gao_cai_sheng)
 
 Patreon: [click me](https://patreon.com/qwq233)
 
