@@ -31,12 +31,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
           plugin_code: yes
           plugin_code_days: 3
           plugin_code_lines: 12
@@ -65,8 +59,6 @@ jobs:
           plugin_people_types: followers, following
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_stars: yes
-          plugin_stars_limit: 4
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561198254532084"
