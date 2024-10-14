@@ -83,5 +83,3 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: current
-          plugin_stargazers: yes
-          plugin_stargazers_charts_type: graph
