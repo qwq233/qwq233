@@ -1499,7 +1499,7 @@ Signed-off-by: qwq233 &lt;qwq233@qwq2333.top&gt;
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">e0c8813e</span>
-                            <span class="code">README_CN.md</span>
+                            <span class="code">README_JA.md</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
                                 <span class="snippet deletions">--1</span>
@@ -1510,7 +1510,7 @@ Signed-off-by: qwq233 &lt;qwq233@qwq2333.top&gt;
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,7 +7,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Nullgram 是一款**自由且开源**的Telegram第三方客户端，基于[Telegram Android](https://play.google.com/store/apps/details?id=org.telegram.messenger)制作。<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">## 为何选择 Nullgram<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">天下苦社区分裂久矣。由于很多原因，NekoX和Nekogram社区彻底分裂，再加之Nekogram[^1]和NekoX的主要开发均存在较大问题，我便决定整合两款app的功能，然后便做了Nullgram。<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">Null的意思是*未初始化、未定义或者不存在*。以Nullgram为名，主要就是为了表达Nullgram没有那么多脑瘫事情。Nullgram不会给你FCM推送"nmsl"[^2]或者其他什么东西，不会发什么乞讨二维码或者机场广告[^4]到频道，不会恶意竞争[^5]捏造事实。<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -7,7 +7,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">Nullgramは、[Telegram App for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger)の公式ソースコードをベースとした **無料でオープンソース** なサードパーティー製のTelegramクライアントです。<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">## 何故Nullgramなのか<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">NekoXとNekogramのコミュニティが分断[^1]され、NekoXとNekogramの主要となる開発者が深刻な問題を抱えている状態のため、これらの問題を回避するために両者の機能を統合したNullgramを開発することにしました。<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">コンピュータープログラミングにおいて、初期化されていないまたは定義されていない、空の状態、あるいは意味がない値という意味で使用されるNull。<br /></span><span class="token prefix unchanged">·</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -1725,7 +1725,7 @@ Signed-off-by: qwq233 &lt;qwq233@qwq2333.top&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2024, 21:18:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Oct 2024, 22:12:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
