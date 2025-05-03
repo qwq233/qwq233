@@ -41,7 +41,7 @@ def sendMetadataDesc():
 def sendAPKs(path):
     startMessageParma = {
         "chat_id": -1002692101396,
-        "text": "==== ====\n\n" + os.environ["COMMIT_MESSAGE",
+        "text": "==== ====\n\n" + os.environ["COMMIT_MESSAGE"],
     }
     startMessageResponse = requests.post(urlPrefix + "/sendMessage", params=startMessageParma)
 
