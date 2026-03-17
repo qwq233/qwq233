@@ -347,7 +347,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            1.94k hours played
+                            1.95k hours played
                         </div>
                     </section>
                 </div>
@@ -376,7 +376,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        381 hours played
+                                        386 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -393,22 +393,22 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            56 / 88 achievements unlocked
+                                            58 / 88 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUHAQT/xAAqEAABBAEEAQMEAgMAAAAAAAABAgMEEQUABhIhMRMiQQcjUXEUM2GBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAIxEAAgEEAQMFAAAAAAAAAAAAAQIDAAQRITESYaEiI1GBkf/aAAwDAQACEQMRAD8AwnFbcg5yDiZEcriosxZpu+LnZQ4OXVHq/wBH8aetRIeExT7eFxaZUYvAmTwK25Sx7PTN+Ejs13ZJPitIvp7jcQdqT4k5KXmWIwU0lDqnW+ZI5LTdHuyfgamYFlD+CyETAyZcaOqSpbxWyHGwEgD2m+X5Hjyas6nzFZCYOrY3yRo/OKfChUCYLzrgc9qNT4W2JM1yIqA5G5FtSQVi0jiCWQquqUSLokiu9At0bcewqkuJV6sVRCfUrjSyCeIBNmh8+DrWF/TXMZOZ6kRSOMhKnx/IBasCvF/sag5GG87gi3NTbvujFQCVFQAtNE9BXVH/ALpMM0Te2jZI75/aNJDInqdcVd2vlGpmNkOvTHG2n4pLp9YKWpRqrIFA2Ca/BGubKzj+ykyJKIwlqccW02ytPJYR0pKgAfknsefGsgxOXchx3YrhUqM4D7Qa4KJHu/z0PGlMDcCVzOan6YV2tY8pAc5E15Hx/oaJPZdcrPjIbAI8U23u1SIIdYz5pTl8pu3cC4zBdDMVv+pSjZb5eU0AACPHd9fOvPvBS8RAcZDsh5qLwaLzzX23VFIJrqlWQTXwNTtw7ihSpa3HZDhbaH2UJdc6cNqUogn5J8dDQfM52dlGm2JEqQ8w2SpCXFk0SO+rrSre3WEYAH1Rp7lpVAJ3X//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAwYHBQAC/8QAKhAAAgIBAwMEAQQDAAAAAAAAAQIDEQQABSEGEjEHEyIycRQVQVEjYYH/xAAYAQADAQEAAAAAAAAAAAAAAAABBAUAAv/EACURAAEDAwMDBQAAAAAAAAAAAAECAxEAIUEEEmETMVEygbHR8P/aAAwDAQACEQMRAD8AgHp70VmdZ7k8GM6xY8Q/zy2pMdqxU9pIJFrRrxqnZ+3+nnRBjh3FGzcy+/4RGQK3t9pAJ4I5LUbokc8DWzs6S9Pemu34uznvysge4zxzCZEXyxV1XwSCa/vi/wCdLZw5M7DyEzMRMlsfuPMd+5ySSO4X54/5pFpp3XFS5IQJ7cZPgVQS2lsAW3c0BYPT3qb28bblfFlAjQR17chRL4VjYJN8k2T/AHqd9YdJ5fTcymS5cVqUThCq95FlBfJIFWdUr9og3PaJcWfb8HHkiZ1SeBwCxHbzGaBUq1eaButH3XDfc+icjHyiMrLxbxmyFhjeRmABoWfiboE3dXrLad0RSpRlJwTMTmaCkJdBEXHj6rUxd3beOhcHJxJFadOyKczlHZFN05VBVEhh28cEa6aQb1jvkiBcKJR+n7UhIQEn60Psv25v8c8aU/TbeNm2npYxZm4wwfqSzZcccvbOVUsQAGBUn4JX+yPxpg3HN22H3OzqGKbbgCrPjyqGKFQVUkW3CkWtHkckVWqWlZDLfTbAkk34OD8YxQ6gVBNBnfEwchGxMgqAGjkEMKqJS31cnx3A9vPj8XWvW9vNh9LbqmWkSysFmmSaIEF6r2yLHIuqsmhdADko2rbjthePOxmwo5FQzHIBIrlSxJIUWPHBq9LvWu/bdu2DlTHcoTjy2Fhj+ErOl0W5Ynk8Wao/wb01qUh0lDgHtaMiP1rVyVbfTX//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Crafting with productivity</div>
-                                                <div class="unlocked">15 Mar 2026</div>
+                                                <div>Computer age 3</div>
+                                                <div class="unlocked">17 Mar 2026</div>
                                             </div>
-                                            <div class="description">Craft a productivity module 3.</div>
+                                            <div class="description">Produce 5k processing units per hour.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+55 others...</div>
+                                            <div class="description ellipsis">+57 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -441,7 +441,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        381 hours played
+                                        386 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -458,22 +458,22 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            56 / 88 achievements unlocked
+                                            58 / 88 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgUHAQT/xAAqEAABBAEEAQMEAgMAAAAAAAABAgMEEQUABhIhMRMiQQcjUXEUM2GBsf/EABUBAQEAAAAAAAAAAAAAAAAAAAQF/8QAIxEAAgEEAQMFAAAAAAAAAAAAAQIDAAQRITESYaEiI1GBkf/aAAwDAQACEQMRAD8AwnFbcg5yDiZEcriosxZpu+LnZQ4OXVHq/wBH8aetRIeExT7eFxaZUYvAmTwK25Sx7PTN+Ejs13ZJPitIvp7jcQdqT4k5KXmWIwU0lDqnW+ZI5LTdHuyfgamYFlD+CyETAyZcaOqSpbxWyHGwEgD2m+X5Hjyas6nzFZCYOrY3yRo/OKfChUCYLzrgc9qNT4W2JM1yIqA5G5FtSQVi0jiCWQquqUSLokiu9At0bcewqkuJV6sVRCfUrjSyCeIBNmh8+DrWF/TXMZOZ6kRSOMhKnx/IBasCvF/sag5GG87gi3NTbvujFQCVFQAtNE9BXVH/ALpMM0Te2jZI75/aNJDInqdcVd2vlGpmNkOvTHG2n4pLp9YKWpRqrIFA2Ca/BGubKzj+ykyJKIwlqccW02ytPJYR0pKgAfknsefGsgxOXchx3YrhUqM4D7Qa4KJHu/z0PGlMDcCVzOan6YV2tY8pAc5E15Hx/oaJPZdcrPjIbAI8U23u1SIIdYz5pTl8pu3cC4zBdDMVv+pSjZb5eU0AACPHd9fOvPvBS8RAcZDsh5qLwaLzzX23VFIJrqlWQTXwNTtw7ihSpa3HZDhbaH2UJdc6cNqUogn5J8dDQfM52dlGm2JEqQ8w2SpCXFk0SO+rrSre3WEYAH1Rp7lpVAJ3X//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAwYHBQAC/8QAKhAAAgIBAwMEAQQDAAAAAAAAAQIDEQQABSEGEjEHEyIycRQVQVEjYYH/xAAYAQADAQEAAAAAAAAAAAAAAAABBAUAAv/EACURAAEDAwMDBQAAAAAAAAAAAAECAxEAIUEEEmETMVEygbHR8P/aAAwDAQACEQMRAD8AgHp70VmdZ7k8GM6xY8Q/zy2pMdqxU9pIJFrRrxqnZ+3+nnRBjh3FGzcy+/4RGQK3t9pAJ4I5LUbokc8DWzs6S9Pemu34uznvysge4zxzCZEXyxV1XwSCa/vi/wCdLZw5M7DyEzMRMlsfuPMd+5ySSO4X54/5pFpp3XFS5IQJ7cZPgVQS2lsAW3c0BYPT3qb28bblfFlAjQR17chRL4VjYJN8k2T/AHqd9YdJ5fTcymS5cVqUThCq95FlBfJIFWdUr9og3PaJcWfb8HHkiZ1SeBwCxHbzGaBUq1eaButH3XDfc+icjHyiMrLxbxmyFhjeRmABoWfiboE3dXrLad0RSpRlJwTMTmaCkJdBEXHj6rUxd3beOhcHJxJFadOyKczlHZFN05VBVEhh28cEa6aQb1jvkiBcKJR+n7UhIQEn60Psv25v8c8aU/TbeNm2npYxZm4wwfqSzZcccvbOVUsQAGBUn4JX+yPxpg3HN22H3OzqGKbbgCrPjyqGKFQVUkW3CkWtHkckVWqWlZDLfTbAkk34OD8YxQ6gVBNBnfEwchGxMgqAGjkEMKqJS31cnx3A9vPj8XWvW9vNh9LbqmWkSysFmmSaIEF6r2yLHIuqsmhdADko2rbjthePOxmwo5FQzHIBIrlSxJIUWPHBq9LvWu/bdu2DlTHcoTjy2Fhj+ErOl0W5Ynk8Wao/wb01qUh0lDgHtaMiP1rVyVbfTX//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Crafting with productivity</div>
-                                                <div class="unlocked">15 Mar 2026</div>
+                                                <div>Computer age 3</div>
+                                                <div class="unlocked">17 Mar 2026</div>
                                             </div>
-                                            <div class="description">Craft a productivity module 3.</div>
+                                            <div class="description">Produce 5k processing units per hour.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+55 others...</div>
+                                            <div class="description ellipsis">+57 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -539,7 +539,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Mar 2026, 10:09:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Mar 2026, 15:05:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
