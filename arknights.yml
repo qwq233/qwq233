@@ -2,7 +2,7 @@ payload:
   # ---- 游戏本体 + 鹰角平台（全覆盖，必留）----
   - DOMAIN-SUFFIX,hypergryph.com      # ak-conf/ak-asset/ak-gs-gf/ak-webview/as/game-config/launcher/user/an-1-bus 等
   - DOMAIN-SUFFIX,hypergryph.net      # core-api-account/eventlog*/hg-protocol-static-web/gs-n-1-ak/web-cms 等
-  - DOMAIN-SUFFIX,hycdn.cn            # ak.hycdn.cn 资源 CDN
+  # - DOMAIN-SUFFIX,hycdn.cn            # ak.hycdn.cn 资源 CDN
   # ---- 国际服映射（CN 包内也引用了这些域名）----
   - DOMAIN-SUFFIX,gryphline.com
   - DOMAIN-SUFFIX,gryphline.net
